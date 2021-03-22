@@ -2,7 +2,7 @@
 This repo contains several notebooks I created or adapted during various activities in my Machine Learning Courses.
 * **Alura**
   1.  [Linear Regression Example](python_alura/01-linear_regression_loss_function.ipynb)
-  2.  [INtroduction to Machine Learning - Basic Concepts](python_alura/02-introducao_machine_learning.ipynb)
+  2.  [Introduction to Machine Learning - Basic Concepts](python_alura/02-introducao_machine_learning.ipynb)
   3.  [Pig or Dog - Classification Example](python_alura/03-porco_ou_cachorro.ipynb)
   4.  [Linear Support Vector Machine Example](python_alura/04-linear_SVC_example.ipynb)
   5.  [Predicting used cars price to support sales](python_alura/05-predict_cars_sold.ipynb)
